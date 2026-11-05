@@ -241,7 +241,7 @@ Credentials are read from environment variables only. Passwords are stored as bc
 
 | | Name | Area |
 |---|---|---|
-| Person A | _add name and GitHub username_ | Marketplace and geo (PostGIS, search, purchase, shop pages) |
+| Person A | Siri Krishna CR ([sirikrishna-dev](https://github.com/sirikrishna-dev))  | Marketplace and geo (PostGIS, search, purchase, shop pages) |
 | Person B | Spoorthi Poornachandra ([@Spoorthi-Poornachandra](https://github.com/Spoorthi-Poornachandra)) | Trust, identity and intelligence (Neo4j, auth, scoring, admin) |
 
 Each member's contributions are visible in the commit history and the repository's Contributors graph.
